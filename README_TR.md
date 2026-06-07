@@ -1,6 +1,6 @@
 ![MainHead](https://github.com/deepString/deepString/blob/main/assets/Github%20Banner2.PNG)
 
-<a href="./README_TR.md">
+<a href="./README.md">
     <img
       align="right"
       src="https://img.shields.io/badge/English Version-README-0A66C2?style=flat-square"
