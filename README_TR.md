@@ -23,7 +23,7 @@ Yapay zekâ alanındaki son gelişmeleri takip etmekten ve gerçek hayatta nası
 * 🧠 **İlgi Alanlarım:** Yazılım geliştirme, akıllı otomasyon ve yeni teknolojileri keşfetmek.
 * 🌱 **Şu anda öğreniyorum:** Ağ temelleri (**CCNA**) ve n8n kullanarak workflow otomasyonları.
 * 🚀 **Hedef:** Teknik becerilerimi sürekli geliştirirken, bir ekibin parçası olarak anlamlı gerçek dünya projelerine katkıda bulunmak.
-
+.
 
 ### 🌐 Benimle iletişime geçin:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkayboranturk)
