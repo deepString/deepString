@@ -18,7 +18,7 @@
 </picture>
 
 Bilgisayar Programcılığı mezunu olarak Flutter, Python, C# ve MSSQL teknolojileriyle proje geliştirme deneyimine sahibim. Şu anda pratik, uygulamalı projelerle yazılım geliştirme becerilerimi daha da ileriye taşıyorum.
-Çapraz platform mobil (Flutter) uygulamaları, masaüstü uygulamaları ve web geliştirme üzerinde çalışıyorum. Bazı projelerime veritabanı sistemlerini entegre ederken, temiz ve kullanıcı dostu arayüzler (UI/UX) oluşturmaya odaklanıyorum.<br>
+Çapraz platform mobil (Flutter) uygulamaları, masaüstü uygulamaları ve web geliştirme üzerinde çalışıyorum. Bazı projelerime veritabanı sistemlerini entegre ederken, temiz ve kullanıcı dostu arayüzler (UI/UX) oluşturmaya odaklanıyorum.
 Yapay zekâ alanındaki son gelişmeleri takip etmekten ve gerçek hayatta nasıl kullanıldıklarını keşfetmekten keyif alıyorum. Ayrıca bu modelleri/araçları araştırmayı, projelere nasıl entegre edileceğini öğrenmeyi ve yazılım geliştirmenin daha akıllı yollarını aramayı seviyorum.
 * 🧠 **İlgi Alanlarım:** Yazılım geliştirme, akıllı otomasyon ve yeni teknolojileri keşfetmek.
 * 🌱 **Şu anda öğreniyorum:** Ağ temelleri (**CCNA**) ve n8n kullanarak workflow otomasyonları.
